@@ -321,7 +321,7 @@ async def run_both_frameworks_and_compare():
     # Run AutoGen implementation
     print("🔵 Running AutoGen Implementation...")
     try:
-        from autogen_implementation.autogen_research_synthesis import main as autogen_main
+        from src.autogen_implementation.autogen_research_synthesis import main as autogen_main
         autogen_result = await autogen_main()
         if not autogen_result:
             print("❌ AutoGen implementation failed to produce results.")
@@ -336,7 +336,7 @@ async def run_both_frameworks_and_compare():
     # Run LangGraph implementation
     print("\n🔴 Running LangGraph Implementation...")
     try:
-        from langgraph_implementation.langgraph_research_synthesis import main as langgraph_main
+        from src.langgraph_implementation.langgraph_research_synthesis import main as langgraph_main
         langgraph_result = await langgraph_main()
         if not langgraph_result:
             print("❌ LangGraph implementation failed to produce results.")

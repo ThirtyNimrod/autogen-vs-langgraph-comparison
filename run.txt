@@ -1,1 +1,0 @@
-python -c "import asyncio; from framework_comparison import run_both_frameworks_and_compare; asyncio.run(run_both_frameworks_and_compare())"
