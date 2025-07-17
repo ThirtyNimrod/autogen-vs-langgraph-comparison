@@ -40,7 +40,7 @@ A comprehensive comparison of AutoGen and LangGraph frameworks through a practic
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/autogen-vs-langgraph-comparison.git
+git clone https://github.com/ThirtyNimrod/autogen-vs-langgraph-comparison.git
 cd autogen-vs-langgraph-comparison
 
 # Install dependencies
