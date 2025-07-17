@@ -139,9 +139,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## 🔗 Related Articles
 
-- [AutoGen Documentation](https://microsoft.github.io/autogen/)
-- [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
-- [Ollama Documentation](https://ollama.ai/docs)
+- [AutoGen Documentation](https://microsoft.github.io/autogen/stable//index.html)
+- [LangGraph Documentation](https://langchain-ai.github.io/langgraph/concepts/why-langgraph/)
+- [Ollama Documentation](https://github.com/ollama/ollama/tree/main/docs)
 
 ---
 

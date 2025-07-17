@@ -72,6 +72,6 @@ We welcome contributions! Here's how to get involved:
 Feel free to ask questions in:
 - GitHub Issues
 - GitHub Discussions
-- Email: your.email@example.com
+- Discord: 30.nimrod
 
 Thank you for contributing! 🎉
