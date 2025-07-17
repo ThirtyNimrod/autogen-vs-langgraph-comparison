@@ -1,6 +1,6 @@
 # AutoGen vs LangGraph: Research Synthesis Comparison
 
-[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Ollama](https://img.shields.io/badge/LLM-Ollama-orange.svg)](https://ollama.ai)
 
@@ -34,7 +34,7 @@ A comprehensive comparison of AutoGen and LangGraph frameworks through a practic
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.12+
 - Ollama with `granite3.3:8b` model
 - Git
 
